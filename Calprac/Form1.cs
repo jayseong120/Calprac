@@ -34,6 +34,47 @@ namespace Calprac
             textBox2.Text = string.Empty;
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "2";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "3";
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "4";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "5";
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "6";
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "7";
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "8";
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            textBox2.Text += "9";
+        }
+
         private void buttonEqual_Click(object sender, EventArgs e)
         {
             num2 = int.Parse(textBox2.Text);
