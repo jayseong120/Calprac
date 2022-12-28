@@ -1,0 +1,11 @@
+C:\Users\feb2422\sample\Calprac\Calprac\bin\Debug\Calprac.exe.config
+C:\Users\feb2422\sample\Calprac\Calprac\bin\Debug\Calprac.exe
+C:\Users\feb2422\sample\Calprac\Calprac\bin\Debug\Calprac.pdb
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.csproj.AssemblyReference.cache
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.csproj.SuggestedBindingRedirects.cache
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.Form1.resources
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.Properties.Resources.resources
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.csproj.GenerateResource.cache
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.csproj.CoreCompileInputs.cache
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.exe
+C:\Users\feb2422\sample\Calprac\Calprac\obj\Debug\Calprac.pdb
